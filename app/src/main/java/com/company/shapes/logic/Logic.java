@@ -176,14 +176,14 @@ public class Logic
 
     static  double circleArea (double radius)
     {
-        const double pi = 3.14;
+        double pi = 3.141592653589793;
         double area = radius * radius * pi;
         return  area;
     }
 
     static  double circleCircumference (double radius)
     {
-        const double pi = 3.14;
+        double pi = 3.141592653589793;
         double circumference = 2*pi*radius;
         return  circumference;
     }
@@ -216,14 +216,15 @@ public class Logic
 
     static  double sphereVolume (double radius)
     {
-        const double pi - 3.14;
-        double sVolume = (4/3)* (Math.pow(radius, 3)) * pi;
-        return  sVolume;
+        double pi = 3.141592653589793;
+        double volume = (4*Math.PI*Math.pow(radius, 3))/3;
+        return  volume;
     }
 
     static  double sphereSurfaceArea (double radius)
     {
-        const double pi - 3.14;
+        double pi = 3.141592653589793;
         double sSurfaceArea = 4*pi * (Math.pow(radius, 2));
         return  sSurfaceArea;
     }
+}

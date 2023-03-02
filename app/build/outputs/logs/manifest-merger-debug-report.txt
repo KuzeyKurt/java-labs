@@ -1,0 +1,163 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Android_project\lab1-assignment-shapes-skeleton\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Android_project\lab1-assignment-shapes-skeleton\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Android_project\lab1-assignment-shapes-skeleton\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Android_project\lab1-assignment-shapes-skeleton\app\src\main\AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\seyra\.gradle\caches\transforms-3\a0240207463aaefb97fc3ae772bf12be\transformed\design-28.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\seyra\.gradle\caches\transforms-3\cc8ec6ba268753b45ceea30ea76c5ded\transformed\appcompat-v7-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\seyra\.gradle\caches\transforms-3\f9768239af8b4a713cd05720441c2f36\transformed\support-fragment-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\seyra\.gradle\caches\transforms-3\ade5e0e93306288a65db6dd4465c4193\transformed\animated-vector-drawable-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\seyra\.gradle\caches\transforms-3\bb9e5b5369ddb0b42faf5db3f844044a\transformed\recyclerview-v7-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\seyra\.gradle\caches\transforms-3\983ea06309df12af7511d2a52df20485\transformed\support-core-ui-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\seyra\.gradle\caches\transforms-3\c498d2f4bdf7a6a0396144949b19307b\transformed\support-core-utils-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\seyra\.gradle\caches\transforms-3\320a47bcea7c0c98b1a943dd9582f78b\transformed\support-vector-drawable-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\seyra\.gradle\caches\transforms-3\a78f48a0c6cfbe8ebf70c5c36a5ed806\transformed\transition-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\seyra\.gradle\caches\transforms-3\a968c5119344a6eed2d70d5dea26b9bc\transformed\loader-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\seyra\.gradle\caches\transforms-3\34bbf4ede4c1a85b145c36df63a4d478\transformed\viewpager-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\seyra\.gradle\caches\transforms-3\8ebda52912e81e7c4a347a281458406c\transformed\coordinatorlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\seyra\.gradle\caches\transforms-3\153891bb759242373d018fa955e7598b\transformed\drawerlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\seyra\.gradle\caches\transforms-3\f9e486aeb6ca5517beb97544152e4b87\transformed\slidingpanelayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\seyra\.gradle\caches\transforms-3\4b52d50958214c9cbdaf2c83911c10ce\transformed\customview-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\seyra\.gradle\caches\transforms-3\ede95fc384c0bae9750374e5ee23f106\transformed\swiperefreshlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\seyra\.gradle\caches\transforms-3\3c8a399743307307cd46eaeaa27ece9e\transformed\asynclayoutinflater-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\seyra\.gradle\caches\transforms-3\969de0ee71186d2008683aae87eff14d\transformed\support-compat-28.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\seyra\.gradle\caches\transforms-3\02330ed8dff7c3523a1c6ae688897740\transformed\versionedparcelable-28.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\seyra\.gradle\caches\transforms-3\8a8f03a84102ec0f36afc7ee1346d654\transformed\cursoradapter-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\seyra\.gradle\caches\transforms-3\39e5538c05e19e1499894fa50b884f8e\transformed\cardview-v7-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\seyra\.gradle\caches\transforms-3\2ee064c7120ee8fa515432505d1b8cde\transformed\runtime-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\seyra\.gradle\caches\transforms-3\26ea8c71e5f5d2f0d3ac6e841d69fdb2\transformed\documentfile-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\seyra\.gradle\caches\transforms-3\592f1ecab2eec3e75c6d9d14257a9e4f\transformed\localbroadcastmanager-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\seyra\.gradle\caches\transforms-3\a2bf24a0756fd9557ab4bf2797aef7ef\transformed\print-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\seyra\.gradle\caches\transforms-3\7143a8df7c823b446f24751b701e55ce\transformed\viewmodel-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\seyra\.gradle\caches\transforms-3\82f0cf5db0748ef958ec071eae77b175\transformed\interpolator-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\seyra\.gradle\caches\transforms-3\98292cd6fd910f7da20957243de2f586\transformed\livedata-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\seyra\.gradle\caches\transforms-3\a9a5ed0a8e8cd48c09b5052df99d7a1a\transformed\livedata-core-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\seyra\.gradle\caches\transforms-3\7760eef92544e20d4d692e2dda8d392a\transformed\runtime-1.1.1\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Android_project\lab1-assignment-shapes-skeleton\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Android_project\lab1-assignment-shapes-skeleton\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Android_project\lab1-assignment-shapes-skeleton\app\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from C:\Android_project\lab1-assignment-shapes-skeleton\app\src\main\AndroidManifest.xml:3:5-33
+		INJECTED from C:\Android_project\lab1-assignment-shapes-skeleton\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Android_project\lab1-assignment-shapes-skeleton\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Android_project\lab1-assignment-shapes-skeleton\app\src\main\AndroidManifest.xml
+		ADDED from C:\Android_project\lab1-assignment-shapes-skeleton\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\Android_project\lab1-assignment-shapes-skeleton\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Android_project\lab1-assignment-shapes-skeleton\app\src\main\AndroidManifest.xml
+		ADDED from C:\Android_project\lab1-assignment-shapes-skeleton\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\Android_project\lab1-assignment-shapes-skeleton\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Android_project\lab1-assignment-shapes-skeleton\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Android_project\lab1-assignment-shapes-skeleton\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\seyra\.gradle\caches\transforms-3\a0240207463aaefb97fc3ae772bf12be\transformed\design-28.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\seyra\.gradle\caches\transforms-3\a0240207463aaefb97fc3ae772bf12be\transformed\design-28.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\seyra\.gradle\caches\transforms-3\969de0ee71186d2008683aae87eff14d\transformed\support-compat-28.0.0\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\seyra\.gradle\caches\transforms-3\969de0ee71186d2008683aae87eff14d\transformed\support-compat-28.0.0\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\seyra\.gradle\caches\transforms-3\02330ed8dff7c3523a1c6ae688897740\transformed\versionedparcelable-28.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\seyra\.gradle\caches\transforms-3\02330ed8dff7c3523a1c6ae688897740\transformed\versionedparcelable-28.0.0\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\seyra\.gradle\caches\transforms-3\969de0ee71186d2008683aae87eff14d\transformed\support-compat-28.0.0\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Android_project\lab1-assignment-shapes-skeleton\app\src\main\AndroidManifest.xml:9:9-35
+	android:label
+		ADDED from C:\Android_project\lab1-assignment-shapes-skeleton\app\src\main\AndroidManifest.xml:8:9-41
+	android:icon
+		ADDED from C:\Android_project\lab1-assignment-shapes-skeleton\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Android_project\lab1-assignment-shapes-skeleton\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Android_project\lab1-assignment-shapes-skeleton\app\src\main\AndroidManifest.xml:10:9-40
+activity#com.company.shapes.ui.MainActivity
+ADDED from C:\Android_project\lab1-assignment-shapes-skeleton\app\src\main\AndroidManifest.xml:11:9-18:20
+	android:exported
+		ADDED from C:\Android_project\lab1-assignment-shapes-skeleton\app\src\main\AndroidManifest.xml:12:13-36
+	android:name
+		ADDED from C:\Android_project\lab1-assignment-shapes-skeleton\app\src\main\AndroidManifest.xml:11:19-68
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Android_project\lab1-assignment-shapes-skeleton\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Android_project\lab1-assignment-shapes-skeleton\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Android_project\lab1-assignment-shapes-skeleton\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Android_project\lab1-assignment-shapes-skeleton\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\Android_project\lab1-assignment-shapes-skeleton\app\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from C:\Android_project\lab1-assignment-shapes-skeleton\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Android_project\lab1-assignment-shapes-skeleton\app\src\main\AndroidManifest.xml
+INJECTED from C:\Android_project\lab1-assignment-shapes-skeleton\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] C:\Users\seyra\.gradle\caches\transforms-3\a0240207463aaefb97fc3ae772bf12be\transformed\design-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\seyra\.gradle\caches\transforms-3\a0240207463aaefb97fc3ae772bf12be\transformed\design-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\seyra\.gradle\caches\transforms-3\cc8ec6ba268753b45ceea30ea76c5ded\transformed\appcompat-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\seyra\.gradle\caches\transforms-3\cc8ec6ba268753b45ceea30ea76c5ded\transformed\appcompat-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\seyra\.gradle\caches\transforms-3\f9768239af8b4a713cd05720441c2f36\transformed\support-fragment-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\seyra\.gradle\caches\transforms-3\f9768239af8b4a713cd05720441c2f36\transformed\support-fragment-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\seyra\.gradle\caches\transforms-3\ade5e0e93306288a65db6dd4465c4193\transformed\animated-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\seyra\.gradle\caches\transforms-3\ade5e0e93306288a65db6dd4465c4193\transformed\animated-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\seyra\.gradle\caches\transforms-3\bb9e5b5369ddb0b42faf5db3f844044a\transformed\recyclerview-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\seyra\.gradle\caches\transforms-3\bb9e5b5369ddb0b42faf5db3f844044a\transformed\recyclerview-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\seyra\.gradle\caches\transforms-3\983ea06309df12af7511d2a52df20485\transformed\support-core-ui-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\seyra\.gradle\caches\transforms-3\983ea06309df12af7511d2a52df20485\transformed\support-core-ui-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\seyra\.gradle\caches\transforms-3\c498d2f4bdf7a6a0396144949b19307b\transformed\support-core-utils-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\seyra\.gradle\caches\transforms-3\c498d2f4bdf7a6a0396144949b19307b\transformed\support-core-utils-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\seyra\.gradle\caches\transforms-3\320a47bcea7c0c98b1a943dd9582f78b\transformed\support-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\seyra\.gradle\caches\transforms-3\320a47bcea7c0c98b1a943dd9582f78b\transformed\support-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\seyra\.gradle\caches\transforms-3\a78f48a0c6cfbe8ebf70c5c36a5ed806\transformed\transition-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\seyra\.gradle\caches\transforms-3\a78f48a0c6cfbe8ebf70c5c36a5ed806\transformed\transition-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\seyra\.gradle\caches\transforms-3\a968c5119344a6eed2d70d5dea26b9bc\transformed\loader-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\seyra\.gradle\caches\transforms-3\a968c5119344a6eed2d70d5dea26b9bc\transformed\loader-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\seyra\.gradle\caches\transforms-3\34bbf4ede4c1a85b145c36df63a4d478\transformed\viewpager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\seyra\.gradle\caches\transforms-3\34bbf4ede4c1a85b145c36df63a4d478\transformed\viewpager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\seyra\.gradle\caches\transforms-3\8ebda52912e81e7c4a347a281458406c\transformed\coordinatorlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\seyra\.gradle\caches\transforms-3\8ebda52912e81e7c4a347a281458406c\transformed\coordinatorlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\seyra\.gradle\caches\transforms-3\153891bb759242373d018fa955e7598b\transformed\drawerlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\seyra\.gradle\caches\transforms-3\153891bb759242373d018fa955e7598b\transformed\drawerlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\seyra\.gradle\caches\transforms-3\f9e486aeb6ca5517beb97544152e4b87\transformed\slidingpanelayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\seyra\.gradle\caches\transforms-3\f9e486aeb6ca5517beb97544152e4b87\transformed\slidingpanelayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\seyra\.gradle\caches\transforms-3\4b52d50958214c9cbdaf2c83911c10ce\transformed\customview-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\seyra\.gradle\caches\transforms-3\4b52d50958214c9cbdaf2c83911c10ce\transformed\customview-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\seyra\.gradle\caches\transforms-3\ede95fc384c0bae9750374e5ee23f106\transformed\swiperefreshlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\seyra\.gradle\caches\transforms-3\ede95fc384c0bae9750374e5ee23f106\transformed\swiperefreshlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\seyra\.gradle\caches\transforms-3\3c8a399743307307cd46eaeaa27ece9e\transformed\asynclayoutinflater-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\seyra\.gradle\caches\transforms-3\3c8a399743307307cd46eaeaa27ece9e\transformed\asynclayoutinflater-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\seyra\.gradle\caches\transforms-3\969de0ee71186d2008683aae87eff14d\transformed\support-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\seyra\.gradle\caches\transforms-3\969de0ee71186d2008683aae87eff14d\transformed\support-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\seyra\.gradle\caches\transforms-3\02330ed8dff7c3523a1c6ae688897740\transformed\versionedparcelable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\seyra\.gradle\caches\transforms-3\02330ed8dff7c3523a1c6ae688897740\transformed\versionedparcelable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\seyra\.gradle\caches\transforms-3\8a8f03a84102ec0f36afc7ee1346d654\transformed\cursoradapter-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\seyra\.gradle\caches\transforms-3\8a8f03a84102ec0f36afc7ee1346d654\transformed\cursoradapter-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\seyra\.gradle\caches\transforms-3\39e5538c05e19e1499894fa50b884f8e\transformed\cardview-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\seyra\.gradle\caches\transforms-3\39e5538c05e19e1499894fa50b884f8e\transformed\cardview-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\seyra\.gradle\caches\transforms-3\2ee064c7120ee8fa515432505d1b8cde\transformed\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\seyra\.gradle\caches\transforms-3\2ee064c7120ee8fa515432505d1b8cde\transformed\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\seyra\.gradle\caches\transforms-3\26ea8c71e5f5d2f0d3ac6e841d69fdb2\transformed\documentfile-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\seyra\.gradle\caches\transforms-3\26ea8c71e5f5d2f0d3ac6e841d69fdb2\transformed\documentfile-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\seyra\.gradle\caches\transforms-3\592f1ecab2eec3e75c6d9d14257a9e4f\transformed\localbroadcastmanager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\seyra\.gradle\caches\transforms-3\592f1ecab2eec3e75c6d9d14257a9e4f\transformed\localbroadcastmanager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\seyra\.gradle\caches\transforms-3\a2bf24a0756fd9557ab4bf2797aef7ef\transformed\print-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\seyra\.gradle\caches\transforms-3\a2bf24a0756fd9557ab4bf2797aef7ef\transformed\print-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\seyra\.gradle\caches\transforms-3\7143a8df7c823b446f24751b701e55ce\transformed\viewmodel-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\seyra\.gradle\caches\transforms-3\7143a8df7c823b446f24751b701e55ce\transformed\viewmodel-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\seyra\.gradle\caches\transforms-3\82f0cf5db0748ef958ec071eae77b175\transformed\interpolator-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\seyra\.gradle\caches\transforms-3\82f0cf5db0748ef958ec071eae77b175\transformed\interpolator-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\seyra\.gradle\caches\transforms-3\98292cd6fd910f7da20957243de2f586\transformed\livedata-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\seyra\.gradle\caches\transforms-3\98292cd6fd910f7da20957243de2f586\transformed\livedata-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\seyra\.gradle\caches\transforms-3\a9a5ed0a8e8cd48c09b5052df99d7a1a\transformed\livedata-core-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\seyra\.gradle\caches\transforms-3\a9a5ed0a8e8cd48c09b5052df99d7a1a\transformed\livedata-core-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\seyra\.gradle\caches\transforms-3\7760eef92544e20d4d692e2dda8d392a\transformed\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\seyra\.gradle\caches\transforms-3\7760eef92544e20d4d692e2dda8d392a\transformed\runtime-1.1.1\AndroidManifest.xml:20:5-44
+INJECTED from C:\Android_project\lab1-assignment-shapes-skeleton\app\src\main\AndroidManifest.xml
+INJECTED from C:\Android_project\lab1-assignment-shapes-skeleton\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Android_project\lab1-assignment-shapes-skeleton\app\src\main\AndroidManifest.xml
+		ADDED from C:\Android_project\lab1-assignment-shapes-skeleton\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Android_project\lab1-assignment-shapes-skeleton\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Android_project\lab1-assignment-shapes-skeleton\app\src\main\AndroidManifest.xml
+		ADDED from C:\Android_project\lab1-assignment-shapes-skeleton\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Android_project\lab1-assignment-shapes-skeleton\app\src\main\AndroidManifest.xml
